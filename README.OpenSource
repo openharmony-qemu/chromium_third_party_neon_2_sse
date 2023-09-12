@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_neon_2_sse",                   # 上游开源软件名全称
+        "Name": "ARM_NEON_2_x86_SSE",                   # 上游开源软件名全称
         "License": "BSD-3-Clause"       # 上游开源软件中包含的许可证信息
         "License File":"LICENSE"         # 许可证所在文件路径
         "Version Number": "8dbe2461c89760ac4b204aa0eafb72413a97957d",
