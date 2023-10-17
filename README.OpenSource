@@ -1,10 +1,11 @@
 [
     {
-        "Name": "ARM_NEON_2_x86_SSE",                   # 上游开源软件名全称
-        "License": "BSD-3-Clause"       # 上游开源软件中包含的许可证信息
-        "License File":"LICENSE"         # 许可证所在文件路径
+        "Name": "ARM_NEON_2_x86_SSE",
+        "License": "BSD-3-Clause",
+        "License File":"LICENSE",
         "Version Number": "8dbe2461c89760ac4b204aa0eafb72413a97957d",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/intel/ARM_NEON_2_x86_SSE.git@8dbe2461c89760ac4b204aa0eafb72413a97957d",   # 上游软件包发布地址
-        "Description": "第三方软件neon_2_sse"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/intel/ARM_NEON_2_x86_SSE.git@8dbe2461c89760ac4b204aa0eafb72413a97957d",
+        "Description": "第三方软件neon_2_sse"
     }
 ]
