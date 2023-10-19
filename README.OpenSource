@@ -6,6 +6,6 @@
         "Version Number": "8dbe2461c89760ac4b204aa0eafb72413a97957d",
         "Owner": "huangjiewen2@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/intel/ARM_NEON_2_x86_SSE.git@8dbe2461c89760ac4b204aa0eafb72413a97957d",
-        "Description": "第三方软件neon_2_sse"
+        "Description": "第三方软件neon_2_sse，Intel 官方在 Github 开源的一份代码，其基于 Intel 自身的 SSE 指令，对 Cortex-A 系列平台上的 NEON 浮点加速指令进行了模拟实现，非常有价值"
     }
 ]
